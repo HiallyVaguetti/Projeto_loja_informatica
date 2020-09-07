@@ -1,0 +1,35 @@
+#container_tabela{
+    width: 1200px;
+    background-color: #cccccc;
+    margin: 0 auto;
+    margin:50px; 
+    border-radius:10px;
+    box-shadow: 2px 2px 2px #4f4f4f;
+}
+h1{
+    text-align: center;
+    padding: 25px;
+}
+#tabela_lista_usuario{
+    border: solid 2px #8b8b8b;
+    border-collapse: collapse;
+    margin: 0 auto;
+    width: 90%;
+}
+#tabela_lista_usuario thead{
+    background-color:  #8b8b8b;
+}
+#tabela_lista_usuario th{
+    height: 30px;
+}
+#tabela_lista_usuario td{
+    height: 30px;
+    text-align: center;
+    border-bottom: solid 2px #8b8b8b ;
+}
+a{
+    color: black;
+}
+#rodape_container{
+    height: 35px;
+}
